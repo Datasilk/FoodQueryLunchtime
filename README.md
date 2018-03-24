@@ -1,5 +1,5 @@
-# FoodQueryLunchtime
-Query the USDA SR25 database to find foods that meet your criteria
+# Food Query Lunchtime (FQL)
+Query the USDA SR25 database to find foods that meet your criteria, and then make lunch.
 
 ### Features
 * Query the database with the following criteria:
