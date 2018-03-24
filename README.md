@@ -11,4 +11,5 @@ Query the USDA SR25 database to find foods that meet your criteria, and then mak
 * Create meals based on foods that are complimentary, not only in taste, but also in the balance of proteins, amino acids, fats, vitamins & minerals, carbs, & calories
 
 #### Disclaimer
-I am not a nutritionist, nor do I study nutrition. I am simply a web developer who got his hands on a copy of the USDA SR25 database.
+* I am not a nutritionist, nor do I study nutrition. I am simply a web developer who got his hands on a copy of the USDA SR25 database.
+* This repository contains an SQL Server backup file that is **98 MB** in size
